@@ -17,4 +17,4 @@ You can pull and run this image from:
 
 Command:  
 ```bash
-docker pull buildwithvedhas/myfirstimage:lastest
+docker pull buildwithvedhas/myfirstimage
