@@ -4,9 +4,9 @@ This repository contains a simple Node.js application packaged in a custom Docke
 
 ## 📦 What’s Inside?
 
-- A lightweight Node.js app (prints a message or starts a basic server)
+- A lightweight Node.js app 
 - Packaged in a custom Ubuntu-based Docker image
-- Node.js installed using NodeSource
+- Node.js installed 
 - Ready to run in seconds!
 
 ## 🐙 Docker Image
