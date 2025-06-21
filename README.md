@@ -15,6 +15,6 @@ You can pull and run this image from:
 
 🔗 **[https://hub.docker.com/r/buildwithvedhas/myfirstimage]**
 
-Example:  
+Command:  
 ```bash
 docker pull buildwithvedhas/myfirstimage:lastest
